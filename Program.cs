@@ -1,13 +1,10 @@
 ﻿using Spectre.Console;
-using System;
 
-namespace MyNamespace
+class Program
 {
-    public class MyClass
+    static void Main(string[] args)
     {
-        public static void Main(string[] args)
-        {
-            
-        }
+        OptionsMenu.MainMenu();
+        
     }
 }

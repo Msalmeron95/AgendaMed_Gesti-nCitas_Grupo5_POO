@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendaMed_Gesti-nCitas_Grupo5_POO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+756e298afaee1d0c0d14d80a9ceb66b10bed34bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09e241a64d1512c49776eb3abd61158a44afc1b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendaMed_Gesti-nCitas_Grupo5_POO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendaMed_Gesti-nCitas_Grupo5_POO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
